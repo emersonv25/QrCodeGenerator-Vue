@@ -6,8 +6,6 @@ Aplicação web de geração de QR Code desenvolvido utilizando o Vue.js e a api
 
 Demo: https://qr-gerador.000webhostapp.com/
 
-# Configurando Ambiente de Desenvolvimento e Compilando para produção
-
 ## Pre-Requisito: 
 
 **Node.Js**
