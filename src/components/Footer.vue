@@ -4,9 +4,9 @@
       class="text-center"
       cols="12"
     >
-       Projeto opensource criado por <strong> <a href="https://github.com/emersonv25">emersonv25</a> </strong> 
+       Projeto opensource criado por <strong> <a href="https://github.com/emersonv25" class="blue--text">emersonv25</a> </strong> 
        <br>
-       O código fonte está disponível em <strong> <a href="https://github.com/emersonv25/QrCode-Vue">QrCode-Vue</a>  </strong> 
+       O código fonte está disponível em <strong> <a href="https://github.com/emersonv25/QrCode-Vue" class="blue--text">QrCode-Vue</a>  </strong> 
 
     </v-col>
 

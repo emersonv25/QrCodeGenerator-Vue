@@ -7,7 +7,7 @@
             <v-card-title class="text--primary justify-center"> Gerador de QR CODE </v-card-title>
             <v-col cols="12" sm="12" md="12">
               <v-text-field
-                label="Digite o link aqui"
+                label="URL"
                 filled
                 rounded
                 dense

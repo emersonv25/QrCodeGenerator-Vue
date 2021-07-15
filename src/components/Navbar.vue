@@ -1,6 +1,6 @@
 <template>
   <div>
-    <v-app-bar app color="primary" height="50">
+    <v-app-bar app dark height="50">
       <v-spacer></v-spacer>
       <div class="d-flex align-center">
         <v-list-item>
